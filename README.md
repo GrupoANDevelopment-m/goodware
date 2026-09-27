@@ -1,2 +1,0 @@
-# goodware
-Goodware - official site
